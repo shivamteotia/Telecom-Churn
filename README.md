@@ -1,4 +1,4 @@
-Customer Churn Prediction Project
+#Customer Churn Prediction Project
 Overview
 Welcome to the Customer Churn Prediction project repository! This project aims to predict customer churn using machine learning techniques. Customer churn, or customer attrition, is a critical metric for businesses, and this project is designed to help businesses identify and understand factors contributing to customer churn.
 
